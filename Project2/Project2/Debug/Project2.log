@@ -1,0 +1,6 @@
+﻿  tetrahedron_faces.cpp
+c:\users\csongor kolozsvari\source\repos\project2\project2\tetrahedron_faces.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\csongor kolozsvari\source\repos\project2\project2\tetrahedron_faces.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Project2.vcxproj -> C:\Users\Csongor Kolozsvari\source\repos\Project2\Debug\Project2.exe
+  C:\Users\Csongor Kolozsvari\source\repos\Project2\freeglut\bin\freeglut.dll
+  1 File(s) copied
